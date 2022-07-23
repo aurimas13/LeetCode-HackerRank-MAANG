@@ -1,4 +1,3 @@
-
 <p align=center>
   <img height="222px" src="https://github.com/aurimas13/HackerRank-LeetCode/blob/main/Public/solution.jpeg"/>
 </p>
